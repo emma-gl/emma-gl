@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Emma! I am a student at Brigham Young University-Idaho currently studying Computer Science. I am interested in pursuing a career in Cyber Security. 
-- Proficient in Java and Python programming with experience in Linux command line and HTML/CSS. I enjoy various project and open to all kinds of opportunities! 
+- 👋 Hi, I’m Emma! I am a student at Brigham Young University-Idaho currently studying Computer Science with a minor in CIT. I am interested in pursuing a career in cybersecurity. 
+- Proficient in Python, Java, and C# programming with experience in command line (linux and powershell) and HTML/CSS. I enjoy various project and open to all kinds of opportunities! 
 - Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/emma-lund22) :)
 
 <!---
